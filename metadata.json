@@ -1,0 +1,8 @@
+{
+  "name": "Relevé — Dance & Music School",
+  "description": "High-end editorial pitch website for Relevé, an elite dance and music academy in Barnawa, Kaduna, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
