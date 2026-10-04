@@ -107,7 +107,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking }) => {
           >
             <div className="aspect-[3/4] overflow-hidden bg-[#E8E4D0]">
               <img
-                src="/src/assets/images/releve_hero_dancer_1788335753674.jpg"
+                src="/images/hero_dancer.jpg"
                 alt="Relevé dancer rising en pointe, studio study"
                 referrerPolicy="no-referrer"
                 className="w-full h-full object-cover grayscale contrast-125 hover:scale-105 transition-transform duration-700"

@@ -66,7 +66,7 @@ export const StudioAtelier: React.FC<StudioAtelierProps> = ({ onOpenBooking }) =
             <div className="relative border border-[#1A1817]/20 p-2 sm:p-3 bg-[#F4F1E1]">
               <div className="aspect-[16/10] overflow-hidden bg-[#E8E4D0]">
                 <img
-                  src="/src/assets/images/releve_studio_space_1788335771251.jpg"
+                  src="/images/studio_space.jpg"
                   alt="Relevé dance atelier at 5B Gwari Avenue, Barnawa, Kaduna"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover grayscale contrast-110 hover:scale-105 transition-transform duration-700"

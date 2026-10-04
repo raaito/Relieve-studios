@@ -7,7 +7,7 @@ export const DISCIPLINES: Discipline[] = [
     frenchSubtitle: 'Danse Classique & Pointe',
     ageRange: 'Ages 4 – 18 & Conservatoire Atelier',
     oneLiner: 'Vaganova-grounded French technique focusing on turnout, spinal alignment, épaulement, and disciplined pointe work.',
-    imageSrc: '/src/assets/images/releve_ballet_study_1788337186135.jpg',
+    imageSrc: '/images/ballet_study.jpg',
     syllabus: {
       focus: 'Barre precision, port de bras, allegro elevation, grand pas, pointe preparation',
       weeklyHours: '4 to 12 hours / week depending on grade',
@@ -23,7 +23,7 @@ export const DISCIPLINES: Discipline[] = [
     frenchSubtitle: 'Mouvement Contemporain',
     ageRange: 'Ages 10+ & Pre-Professional Ensemble',
     oneLiner: 'Floorwork fluency, kinetic weight transfer, release mechanics, and improvisational courage for the modern stage.',
-    imageSrc: '/src/assets/images/releve_contemporary_study_1788337199110.jpg',
+    imageSrc: '/images/contemporary_study.jpg',
     syllabus: {
       focus: 'Cunningham spinal articulation, Graham contraction/release, contact improvisation, inverted partnering',
       weeklyHours: '4 to 8 hours / week',
@@ -39,7 +39,7 @@ export const DISCIPLINES: Discipline[] = [
     frenchSubtitle: 'Patrimoine & Polyrythmie',
     ageRange: 'All Ages · Youth to Advanced Ensemble',
     oneLiner: 'West African ancestral movement traditions, polyrhythmic footwork, and contemporary Afro-fusion driven by live percussion.',
-    imageSrc: '/src/assets/images/releve_afro_study_1788337212526.jpg',
+    imageSrc: '/images/afro_study.jpg',
     syllabus: {
       focus: 'Grounding, thoracic isolation, Bata and Dundun rhythm dialogue, high-velocity footwork, ceremonial repertoire',
       weeklyHours: '3 to 6 hours / week',
@@ -55,7 +55,7 @@ export const DISCIPLINES: Discipline[] = [
     frenchSubtitle: 'Cultures Urbaines & House',
     ageRange: 'Ages 8+ & Battle Crew',
     oneLiner: 'Authentic breaking, popping, locking, and house groove disciplines taught with cultural lineage and explosive precision.',
-    imageSrc: '/src/assets/images/releve_hiphop_study_1788337226102.jpg',
+    imageSrc: '/images/hiphop_study.jpg',
     syllabus: {
       focus: 'Groove dynamics, isolations, floor footwork, cypher etiquette, musical pocket timing',
       weeklyHours: '3 to 6 hours / week',
@@ -71,7 +71,7 @@ export const DISCIPLINES: Discipline[] = [
     frenchSubtitle: 'Solfège, Percussion & Clavier',
     ageRange: 'Ages 6+ & Accompanist Track',
     oneLiner: 'Formal music theory, classical piano repertoire, ear training, and polyrhythmic percussion tailored for performing artists.',
-    imageSrc: '/src/assets/images/releve_music_study_1788337245833.jpg',
+    imageSrc: '/images/music_study.jpg',
     syllabus: {
       focus: 'Sight reading, ABRSM graded piano, solfège, polyrhythmic time-signature analysis for dance accompaniment',
       weeklyHours: '2 to 4 hours / week (private + studio lab)',

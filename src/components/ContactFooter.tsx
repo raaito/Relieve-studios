@@ -69,7 +69,7 @@ export const ContactFooter: React.FC<ContactFooterProps> = ({ onOpenBooking }) =
             <div className="border border-[#F4F1E1]/20 p-2.5 bg-[#201D1C]">
               <div className="aspect-[16/10] overflow-hidden bg-[#1A1817]">
                 <img
-                  src="/src/assets/images/releve_closing_studio_1788337260710.jpg"
+                  src="/images/closing_studio.jpg"
                   alt="Empty Relevé dance studio at dusk with brass barre and sprung floor"
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover grayscale contrast-115 hover:scale-105 transition-transform duration-700"
